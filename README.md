@@ -9,14 +9,17 @@ This project was created to strengthen my understanding of DOM manipulation, eve
 ## ✨ Features
 
 - ➕ Add new tasks
+- ✏ Edit existing tasks
+- 💾 Automatically save edited tasks
 - 🗑 Delete tasks
 - ☑ Mark tasks as completed
+- 💾 Local Storage support
 - 📊 Live task counter
-    - Total Tasks
-    - Completed Tasks
-    - Pending Tasks
+  - Total Tasks
+  - Completed Tasks
+  - Pending Tasks
 - 📝 Empty state message
-- ⌨ Add tasks using the Enter key
+- ⌨ Add and save tasks using the Enter key
 - 🎨 Responsive and modern interface
 
 ---
@@ -39,6 +42,10 @@ This project was created to strengthen my understanding of DOM manipulation, eve
 - Input Validation
 - CSS Flexbox
 - CSS Hover Effects
+- Local Storage
+- JSON.stringify()
+- JSON.parse()
+- Arrays & Objects
 
 ---
 
@@ -57,12 +64,13 @@ taskflow-js/
 
 ## 🚀 Future Improvements
 
-- 💾 Local Storage
-- ✏ Edit Tasks
 - 🔍 Search Tasks
-- 📂 Filter Tasks
+- 📂 Filter Tasks (All / Completed / Pending)
 - 🌙 Dark / Light Mode
+- 📅 Due Dates
+- ⭐ Task Priority
 - 📱 Mobile Improvements
+- 🖱 Drag and Drop Task Reordering
 
 ---
 
